@@ -1,6 +1,11 @@
 # Python playground
 Place to learn and mastering python  :)
 
+# Stock informator
+- simple GUI to input stock ticker and choose timeframe for price chart
+- app gets detailed data for stock based on stock ticker
+- used tkinter, yfinance, plotly modules
+
 # Cryptocurrency exchange 2.0
 - app gets actuall Bitcoin and Ethereum price from external API
 - user place how much he want to spend for BTC or ETH
